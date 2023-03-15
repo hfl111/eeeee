@@ -23,3 +23,4 @@ public class Homework01 {
          return n1/n2;
     }
 }
+
